@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello my name is Dongil Park, and I'm 20 years old.I'm currently studying software at Gachon university, and I'm passionate about prgramming.
 <!--
 **ehddlf0612/ehddlf0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
